@@ -14,6 +14,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'mongoid', git: 'https://github.com/mongoid/mongoid.git'
 gem 'haml'
 gem 'smarter_csv'
+gem 'sqlite3-ruby'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
  gem 'therubyracer', platforms: :ruby
